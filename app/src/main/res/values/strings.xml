@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NY Times Best Seller</string>
+    <string name="book_image_desc">Book Cover Image</string>
+    <string name="NYT_API_KEY">K0GU9bKAJF8OVj8twkrN8U4LY2pUZCKL</string>
 </resources>
